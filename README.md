@@ -364,7 +364,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Ajinkya Dhatrak**
 
-GitHub: [ajinkya02](https://github.com/ajinkya029)
+GitHub: [ajinkya029](https://github.com/ajinkya029)
 
 ---
 
