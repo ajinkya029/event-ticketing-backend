@@ -89,7 +89,7 @@ Make sure you have installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/event-ticketing-backend.git
+git clone https://github.com/ajinkya029/event-ticketing-backend.git
 cd event-ticketing-backend
 ```
 
